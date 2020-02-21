@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_TTYP" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD40V>
+    <TYPENAME>ZCY_T_PERF</TYPENAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <ROWTYPE>ZCY_S_PERF</ROWTYPE>
+    <ROWKIND>S</ROWKIND>
+    <DATATYPE>STRU</DATATYPE>
+    <ACCESSMODE>T</ACCESSMODE>
+    <KEYDEF>K</KEYDEF>
+    <KEYKIND>N</KEYKIND>
+    <KEYFDCOUNT>0002</KEYFDCOUNT>
+    <DDTEXT>ZCY_T_PERF</DDTEXT>
+   </DD40V>
+   <DD42V>
+    <DD42V>
+     <TYPENAME>ZCY_T_PERF</TYPENAME>
+     <KEYFDPOS>0001</KEYFDPOS>
+     <ROWTYPEPOS>0001</ROWTYPEPOS>
+     <KEYFIELD>AKEY</KEYFIELD>
+    </DD42V>
+    <DD42V>
+     <TYPENAME>ZCY_T_PERF</TYPENAME>
+     <SECKEYNAME>BKEY</SECKEYNAME>
+     <KEYFDPOS>0001</KEYFDPOS>
+     <ROWTYPEPOS>0001</ROWTYPEPOS>
+     <KEYFIELD>AKEY</KEYFIELD>
+    </DD42V>
+   </DD42V>
+   <DD43V>
+    <DD43V>
+     <TYPENAME>ZCY_T_PERF</TYPENAME>
+     <SECKEYNAME>BKEY</SECKEYNAME>
+     <ACCESSMODE>S</ACCESSMODE>
+     <KIND>K</KIND>
+    </DD43V>
+   </DD43V>
+  </asx:values>
+ </asx:abap>
+</abapGit>
